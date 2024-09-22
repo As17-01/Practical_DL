@@ -76,3 +76,4 @@ debian/files
 *.debhelper.log
 
 *.gz
+*.png

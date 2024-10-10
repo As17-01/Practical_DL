@@ -77,3 +77,10 @@ debian/files
 
 *.gz
 *.png
+*.zip
+*.jpg
+*._dogs_vs_cats_1000
+*.xml
+*.mat
+*.txt
+

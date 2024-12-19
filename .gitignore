@@ -83,4 +83,4 @@ debian/files
 *.xml
 *.mat
 *.txt
-
+*.wav

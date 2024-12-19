@@ -20,6 +20,9 @@ requests = "^2.32.3"
 transformers = "^4.45.2"
 shap = "^0.46.0"
 catboost = "^1.2.7"
+librosa = "^0.10.2.post1"
+keras = "^3.7.0"
+tensorflow = "^2.18.0"
 
 
 [build-system]
